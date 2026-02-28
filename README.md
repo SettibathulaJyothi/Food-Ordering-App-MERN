@@ -23,4 +23,4 @@ Features
 
 
 <img width="1018" height="314" alt="image" src="https://github.com/user-attachments/assets/6d25949f-3016-4e40-bcf6-325e64616bc3" />
-<img width="1018" height="314" alt="image" src="https://github.com/user-attachments/assets/6d25949f-3016-4e40-bcf6-325e64616bc3" />
+
