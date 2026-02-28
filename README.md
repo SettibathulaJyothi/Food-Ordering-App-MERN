@@ -20,3 +20,7 @@ Features
 📊 Admin Dashboard – Monitor orders, manage products, and oversee users
 
 ⚡ Instant Order Confirmation – Real-time updates and delivery tracking
+
+
+<img width="1018" height="314" alt="image" src="https://github.com/user-attachments/assets/6d25949f-3016-4e40-bcf6-325e64616bc3" />
+<img width="1018" height="314" alt="image" src="https://github.com/user-attachments/assets/6d25949f-3016-4e40-bcf6-325e64616bc3" />
