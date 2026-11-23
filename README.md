@@ -1,6 +1,6 @@
 Food-Ordering-App-MERN
 
-OrderOnTheGo 🍴
+OrderOnTheGo
 Your On-Demand Food Ordering Solution
 
 Overview
