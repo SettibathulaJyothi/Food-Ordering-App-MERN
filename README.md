@@ -1,14 +1,13 @@
-Food-Ordering-App-MERN
+## Food-Ordering-App-MERN
 
-OrderOnTheGo
+### OrderOnTheGo
 Your On-Demand Food Ordering Solution
 
-Overview
+#### Overview
 
 OrderOnTheGo (powered by SB Foods) is a cutting-edge digital platform designed to revolutionize online food ordering. With a user-friendly web app, foodies can effortlessly explore, discover, and order dishes tailored to their tastes.
 
 Whether you’re a seasoned food enthusiast or an occasional diner, SB Foods ensures a seamless, transparent, and efficient ordering experience — complete with dish details, reviews, pricing, and promotions.
-
  
 User Authentication – Secure sign-up/login for customers and admins
 
